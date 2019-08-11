@@ -4,7 +4,7 @@ import com.google.gson.annotations.SerializedName;
 
 import org.litepal.crud.LitePalSupport;
 
-public class Country extends LitePalSupport {
+public class County extends LitePalSupport {
 
     /**
      * id : 1967
@@ -53,3 +53,4 @@ public class Country extends LitePalSupport {
         this.weatherId = weatherId;
     }
 }
+
