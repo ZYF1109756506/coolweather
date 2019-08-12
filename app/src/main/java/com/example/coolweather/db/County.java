@@ -9,7 +9,7 @@ public class County extends LitePalSupport {
     /**
      * id : 1967
      * name : 成都
-     * weather_id : CN101270101
+     * cid : CN101270101
      */
     private int id;
 
